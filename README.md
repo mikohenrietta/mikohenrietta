@@ -1,5 +1,5 @@
 # Hi, I’m Henrietta!
-- 🌱 I’m a 2nd year Computer Science student at Babes-Bolyai University, Romania
+- 🌱 I’m a 3rd year Computer Science student at Babes-Bolyai University, Romania
 - 💞️ I love exploring new areas in software development. As I'm still at the beginning of my journey, I'm excited to discover which path I will take
 - 🌍 Languages: English, Hungarian, French (B2), Romanian
 - 🎨 When I’m not coding, I love reading, learning new skills, and spending time with my loved ones (especially my pets)
