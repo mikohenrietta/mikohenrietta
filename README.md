@@ -2,9 +2,9 @@
 
 # Hi, I’m Heni! 👋
 
-### Computer Science Student & Aspiring Software Engineer
+### Data Science Student & Aspiring Software Engineer
 
-🌱 I’m a 3rd year Computer Science student at Babes-Bolyai University, Romania.
+🌱 I’m a first year Data Science master's student at Babes-Bolyai University, Romania.
 <br/>
 💞️ I love exploring new areas in software development.
 As I'm still at the beginning of my journey, I'm excited to discover which path I will take.
